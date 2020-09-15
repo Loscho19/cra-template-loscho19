@@ -1,0 +1,25 @@
+{
+  "name": "cra-template-loscho19",
+  "version": "1.0.0",
+  "keywords": [
+    "loscho19"
+  ],
+  "description": "Mein eigenes ReactJS Template",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Loscho19/cra-template-loscho19.git"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": ">=10"
+  },
+  "author": "Fabian Reichmuth",
+  "bugs": {
+    "url": "https://github.com/Loscho19/cra-template-loscho19/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "homepage": "https://github.com/Loscho19"
+}

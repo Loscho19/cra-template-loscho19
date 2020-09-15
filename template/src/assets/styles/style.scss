@@ -1,0 +1,12 @@
+@import './scss/variables';
+
+@import './scss/customBootstrap';
+
+// Import Bootstrap and its default variables
+// @import '~bootstrap/scss/bootstrap.scss';
+@import '../../../node_modules/bootstrap/scss/bootstrap';
+
+@import './scss/fonts';
+@import './scss/icons';
+
+@import './scss/main';
