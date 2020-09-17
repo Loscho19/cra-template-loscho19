@@ -1,6 +1,5 @@
 Add devDependencies
-`yarn add prettier redux-devtools-extension`
-
+`yarn add prettier redux-devtools-extension -D`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
