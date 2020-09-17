@@ -6,6 +6,7 @@ import ScrollToTop from './hooks/ScrollToTop';
 
 // Import Pages
 import Home from './pages/Home';
+import NoMatch from './pages/NoMatch';
 
 function App() {
   return (
