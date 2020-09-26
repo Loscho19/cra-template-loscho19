@@ -5,7 +5,7 @@ import { Row, Col, Container } from 'react-bootstrap';
 /**
  * Seite "Home"
  */
-const NoMatch = () => {
+const Home = () => {
   return (
     <section className='home'>
       <Container>
@@ -19,4 +19,4 @@ const NoMatch = () => {
   );
 };
 
-export default NoMatch;
+export default Home;
